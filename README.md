@@ -18,7 +18,9 @@
 
 <div align=center>
 
-<div style="height: 30px">
+
+### ✨ Status 
+<div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiyoonz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

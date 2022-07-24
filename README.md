@@ -1,4 +1,4 @@
-<div align=center>
+
 
 #  Hi👋 I'm Jiyoon! 
 
@@ -6,22 +6,30 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldbsl416@gmail.com)](mailto:wldbsl416@gmail.com)
  
 
-</div>
 
-- 🌱 I’m currently learning React & TypeScript
-
+안녕하세요! 프론트엔드 개발자 경지윤 입니다.
+- 🌱 I’m currently learning **React & TypeScript**
 
 <div align=center>
 
-
-### ✨ Status 
-<div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiyoonz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+###  🛠 my skill 🛠 <br>
+  [![My Skills](https://skillicons.dev/icons?i=js,react,ts,git,html,css,scss,nodejs)](https://skillicons.dev) <br>
+  [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
 
 
-</div>
+<br><br>
+
+### ✨ Status
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="height: 165px;"  align="center" src="https://github-readme-stats.vercel.app/api?username=Jiyoonz&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true" />
+</a>
+
+
+
 
 
 

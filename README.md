@@ -12,7 +12,7 @@
 
 <div align=center>
 
-###  🛠 my skill 🛠 <br>
+###  🛠 my skills 🛠 <br>
   [![My Skills](https://skillicons.dev/icons?i=js,react,ts,git,html,css,scss,nodejs)](https://skillicons.dev) <br>
   [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
 
